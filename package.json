@@ -1,0 +1,24 @@
+{
+  "name": "craftcanvas",
+  "version": "1.0.3",
+  "description": "A Library For Canvas",
+  "main": "craftCanvas.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "craftCanvas",
+    "html5",
+    "javascript",
+    "canvas"
+  ],
+  "author": "Suresh Kommuri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suresh-kommuri/craftCanvas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suresh-kommuri/craftCanvas/issues"
+  }
+}
